@@ -3,9 +3,10 @@
 
 // class Motor {
 // public:
-//   uint8_t base_sp = 120;
-  
+//   const float scale = 7.0;
+//   uint16_t base_sp = 100;
+//   int delta, sum;
 
-// }
+// };
 
 #endif
